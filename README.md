@@ -21,3 +21,6 @@ Enter your root password when prompted.
 #FLUSH PRIVILEGES;
 
 Replace 'yourusername' and 'yourpassword' with your desired username and password.
+
+
+https://chatgpt.com/c/690fdd3d-9519-45bd-b6d6-a57f88ae2d56
